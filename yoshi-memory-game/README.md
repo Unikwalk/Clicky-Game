@@ -1,10 +1,10 @@
 # React Yoshi's Island Memory Card Game
 
-Test your memory in this simple card game! Don't click twice!
+### Test your memory in this simple card game! Don't click twice!
 
-Play [Yoshi's Card Game](https://react-clicky-game.herokuapp.com/)
+##### Play [Yoshi's Card Game](https://hidden-wildwood-76622.herokuapp.com/)
 
-###Technologies Used:
+### Technologies Used:
 * React
 * Javascript
 * HTML
