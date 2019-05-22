@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Balloon",
+      "image": "https://static.giantbomb.com/uploads/square_small/0/5370/1176304-yi_burt.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Pink Kirby",
+      "image": "https://static.giantbomb.com/uploads/square_small/0/5370/1176428-yi_marching.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Black Bird",
+      "image": "https://static.giantbomb.com/uploads/square_small/3/33787/955679-ravenbig.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Boo",
+      "image": "https://static.giantbomb.com/uploads/square_small/0/5370/1176395-yi_bigger.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Bo-omb",
+      "image": "https://static.giantbomb.com/uploads/square_small/0/5370/1176503-yi_taptap.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Koopa",
+      "image": "https://static.giantbomb.com/uploads/square_small/0/5370/1176431-yi_hookbill.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Green Shy Guy",
+      "image": "https://b.sccpre.cat/mypng/small/126-1264130_shy-guy-mario-bros.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Yoshi",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/YI_Yoshi_6680.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Witches",
+      "image": "https://vignette.wikia.nocookie.net/mario/images/0/00/Toady.jpg/revision/latest?cb=20100626233137",
+      "count": 0
+    }
+  ]
+  
